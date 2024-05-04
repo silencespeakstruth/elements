@@ -8,6 +8,10 @@
 
 # Архив 
 
+## Май 2024
+
+- [Конструкции лечащие или калечащие](/cmon-canon.md)
+
 ## Март 2024
 
 - [All ya need is fixpoint](/all-ya-need-is-fixpoint.md)
